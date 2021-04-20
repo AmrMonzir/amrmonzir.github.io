@@ -65882,7 +65882,7 @@ F.FQ.prototype={
 H:function(a,b){return new X.I4(new F.Yz(),new P.G(1920,1217),null)}}
 F.Yz.prototype={
 $0:function(){var s=null,r=X.ag0(C.K,C.a_,s,M.aeQ(!1,s,s,s,s,36,s,C.K,C.qX,s,88,s,s,s,C.fD),new A.oU(s,C.k,s,0,s,new X.dj(K.Cq(25),C.v)),"Poppins",C.bj,C.CU,R.a4s(A.aG(s,s,C.k,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s),A.aG(s,s,C.k,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s),s,s,s,s,s,s,s,s,s,s,s))
-return new S.n0(P.aK(["/",new F.Yv(),"/about",new F.Yw(),"/portfolio",new F.Yx(),"/contact",new F.Yy()],t.N,t.Ab),"/","Flutter Demo",r,s)},
+return new S.n0(P.aK(["/",new F.Yv(),"/about",new F.Yw(),"/portfolio",new F.Yx(),"/contact",new F.Yy()],t.N,t.Ab),"/","Amr Monzir",r,s)},
 $C:"$0",
 $R:0,
 $S:418}
