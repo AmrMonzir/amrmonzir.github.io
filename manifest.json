@@ -1,11 +1,11 @@
 {
-    "name": "Amr Monzir",
-    "short_name": "amrmonzir",
+    "name": "my_portfolio",
+    "short_name": "my_portfolio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Amr Monzir's Portfolio App made in Flutter Web",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
